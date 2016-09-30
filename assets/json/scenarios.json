@@ -3,7 +3,7 @@
     "title": "Baseline",
     "type": "vendor",
     "roi": {
-      "startDate": "2016-02-10",
+      "startDate": "2016-10-15",
       "startupFixed": 200,
       "startupPerUnit": 110,
       "quantity": 20
@@ -12,11 +12,11 @@
       "price": 0.07
     },
     "network": {
-      "diffIncrease": 5,
-      "linearDiff": true
+      "diffIncrease": 3,
+      "linearDiff": false
     },
     "price": {
-      "usd": "420"
+      "usd": "605"
     },
     "asic": 0
   },
